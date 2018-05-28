@@ -7,11 +7,6 @@ import random
 2048 Game
 Please read the comments to help clear up any confusion about what the purpose of the various variables are
 
-Before submitting ensure to edit this comment block to include the ID numbers of both group members
-Group Member:620091991
-Group Member:
-"""
-
 # Give grid the appropriate value
 
 grid = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
